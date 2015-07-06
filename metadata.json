@@ -1,0 +1,14 @@
+{
+  "name": "twodrinktech-ntp",
+  "version": "0.1.0",
+  "author": "twodrinktech",
+  "summary": "Stupid Simple Ntp Module",
+  "license": "Apache 2.0",
+  "source": "https://github.com/twodrinktech/twodrinktech-ntp",
+  "project_page": "https://github.com/twodrinktech/twodrinktech-ntp/wiki",
+  "issues_url": "https://github.com/twodrinktech/twodrinktech-ntp/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
